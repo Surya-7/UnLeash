@@ -1,5 +1,5 @@
 
-#UnLeash - Social Media App
+# UnLeash - Social Media App
 
 UnLeash is a photo sharing app that allows users to follow friends, post their own content, and discover new interests. 
 
