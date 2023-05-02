@@ -13,6 +13,8 @@ The client side of the project is developed using [React js](https://legacy.reac
 
 The server side of the project is developed using [Node js](https://nodejs.org/en/docs) and [Express js](https://expressjs.com/)
 
+The database used is [Mongo DB](https://www.mongodb.com/)
+
 
 
 ## Environment Variables
