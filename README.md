@@ -10,6 +10,7 @@ UnLeash is a photo sharing app that allows users to follow friends, post their o
 ## Documentation
 
 The client side of the project is developed using [React js](https://legacy.reactjs.org/docs/getting-started.html)
+
 The server side of the project is developed using [Node js](https://nodejs.org/en/docs) and [Express js](https://expressjs.com/)
 
 
